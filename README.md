@@ -89,7 +89,7 @@ A modern artisan apparel and sustainable fashion e-commerce website with feature
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: www.linkedin.com/in/palavalasa-yegneswar
 - 🐙 GitHub: [@P-YEGNESWAR](https://github.com/P-YEGNESWAR)
 ---
 
