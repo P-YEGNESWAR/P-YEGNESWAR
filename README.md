@@ -61,7 +61,6 @@ A web-based application for managing medicines, products and store information.
 
 ![Yegneswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-YEGNESWAR&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight)
 
 ---
 
