@@ -1,21 +1,16 @@
-# 👋 Hi, I'm Yegneswar
+👋 Hi, I'm Yegneswar
+💻 BCA Graduate | Full-Stack Developer | Python & AI Enthusiast
 
-### 💻 BCA Graduate | Full-Stack Developer | Python & AI Enthusiast
+I enjoy building useful applications that solve real-world problems. My main interests are Python, web development, AI/ML, and software development, and I'm constantly experimenting with new technologies and project ideas.
 
-I'm passionate about building practical software applications and learning modern technologies. I enjoy working with **Python, JavaScript, React, Node.js, SQL, and AI/ML**.
-
----
-
-## 🚀 About Me
-
-- 🎓 BCA Graduate
-- 💻 Interested in Full-Stack Development and Software Development
-- 🐍 Learning and building projects with Python
-- 🤖 Exploring AI, Machine Learning and Generative AI
-- 🌱 Currently improving my Data Structures & Algorithms skills
-- 🔍 Interested in Web Development, Data Science and AI
-- 🚀 Always working on new projects and improving my skills
-
+🚀 About Me
+🎓 BCA Graduate
+💻 Interested in Full-Stack & Software Development
+🐍 Building projects with Python
+🤖 Exploring AI, Machine Learning & Generative AI
+🌐 Interested in Web Development and Data Science
+🧠 Currently improving my problem-solving and DSA skills
+🚀 Learning by building real projects and experimenting with new ideas
 ---
 
 ## 🛠️ Tech Stack
@@ -41,26 +36,48 @@ I'm passionate about building practical software applications and learning moder
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+🛡️ Scope Creep Detector
 
-### 💰 Expense Predictor
-A Python-based application for analyzing and predicting expenses.
+A Flask web app that helps identify when a client request goes beyond the agreed project scope. It compares a new request with the contract scope and provides a quick verdict, confidence score, and suggested response.
 
-### 🤖 Emotional Support Chatbot
-An AI/NLP-based chatbot project designed to provide conversational emotional support.
+🔗 View Project
 
-### 🛒 E-Commerce Website
-A full-stack web application with product management and shopping functionality.
+📩 Spam Classifier
 
-### 💊 Medical Store Management System
-A web-based application for managing medicines, products and store information.
+A machine learning project that classifies messages as spam or legitimate using NLP preprocessing and TF-IDF features. The model achieved 98.7% accuracy during testing.
 
----
+🔗 View Project
+
+💰 Expense Predictor
+
+A Python-based expense prediction project that works with historical spending data to forecast future expenses and provide monthly and category-wise insights.
+
+🔗 View Project
+
+💼 Smart Job Portal
+
+A web-based job portal designed to make it easier for users to explore job opportunities and find roles that match their interests and career goals.
+
+🔗 View Project
+
+🤖 Emotional Support Chatbot
+
+An AI-powered chatbot built to provide friendly and supportive conversations. The project explores how NLP and conversational AI can be used to create more natural user interactions.
+
+🔗 View Project
+
+🛍️ Humanized Store
+
+A modern artisan apparel and sustainable fashion e-commerce website with features such as multi-currency support, a slide-over shopping cart, promo codes, and printable checkout receipts.
+
+🔗 View Project
 
 ## 📊 GitHub Stats
 
 ![Yegneswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-YEGNESWAR&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight)
 
 ---
 
@@ -72,8 +89,8 @@ A web-based application for managing medicines, products and store information.
 
 ## 📫 Connect With Me
 
+- 💼 LinkedIn: Add your LinkedIn profile here
 - 🐙 GitHub: [@P-YEGNESWAR](https://github.com/P-YEGNESWAR)
-
 ---
 
 ⭐ **Thanks for visiting my profile!**
