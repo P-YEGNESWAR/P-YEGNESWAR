@@ -34,44 +34,6 @@ I enjoy building useful applications that solve real-world problems. My main int
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-🚀 Featured Projects
-🛡️ Scope Creep Detector
-
-A Flask web app that helps identify when a client request goes beyond the agreed project scope. It compares a new request with the contract scope and provides a quick verdict, confidence score, and suggested response.
-
-🔗 View Project
-
-📩 Spam Classifier
-
-A machine learning project that classifies messages as spam or legitimate using NLP preprocessing and TF-IDF features. The model achieved 98.7% accuracy during testing.
-
-🔗 View Project
-
-💰 Expense Predictor
-
-A Python-based expense prediction project that works with historical spending data to forecast future expenses and provide monthly and category-wise insights.
-
-🔗 View Project
-
-💼 Smart Job Portal
-
-A web-based job portal designed to make it easier for users to explore job opportunities and find roles that match their interests and career goals.
-
-🔗 View Project
-
-🤖 Emotional Support Chatbot
-
-An AI-powered chatbot built to provide friendly and supportive conversations. The project explores how NLP and conversational AI can be used to create more natural user interactions.
-
-🔗 View Project
-
-🛍️ Humanized Store
-
-A modern artisan apparel and sustainable fashion e-commerce website with features such as multi-currency support, a slide-over shopping cart, promo codes, and printable checkout receipts.
-
-🔗 View Project
 
 ## 📊 GitHub Stats
 
@@ -79,17 +41,10 @@ A modern artisan apparel and sustainable fashion e-commerce website with feature
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight)
 
----
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/P-YEGNESWAR/P-YEGNESWAR/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/palavalasa-yegneswar
+- 💼 LinkedIn:  [linkedin.com/in/palavalasa-yegneswar](https://www.linkedin.com/in/palavalasa-yegneswar)
 - 🐙 GitHub: [@P-YEGNESWAR](https://github.com/P-YEGNESWAR)
 ---
 
