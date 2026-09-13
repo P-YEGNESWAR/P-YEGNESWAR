@@ -4,13 +4,13 @@
 
 I enjoy building useful applications that solve real-world problems. My main interests are Python, web development, AI/ML, and software development — I'm constantly experimenting with new technologies and project ideas.
 
-🎓 BCA Graduate
-💻 Interested in Full-Stack & Software Development
-🐍 Building projects with Python
-🤖 Exploring AI, Machine Learning & Generative AI
-🌐 Interested in Web Development and Data Science
-🧠 Currently improving my problem-solving and DSA skills
-🌱 Learning by building real projects and experimenting with new ideas
+- 🎓 BCA Graduate
+- 💻 Interested in Full-Stack & Software Development
+- 🐍 Building projects with Python
+- 🤖 Exploring AI, Machine Learning & Generative AI
+- 🌐 Interested in Web Development and Data Science
+- 🧠 Currently improving my problem-solving and DSA skills
+- 🌱 Learning by building real projects and experimenting with new ideas
 ---
 
 ## 🛠️ Tech Stack
