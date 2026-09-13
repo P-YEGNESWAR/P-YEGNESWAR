@@ -13,7 +13,7 @@ I enjoy building useful applications that solve real-world problems. My main int
 - 🌱 Learning by building real projects and experimenting with new ideas
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
