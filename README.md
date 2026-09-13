@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Yegneswar
+### 👋 Hi, I'm Yegneswar
 
 🚀 About Me...
 
@@ -45,16 +45,7 @@ I enjoy building useful applications that solve real-world problems. My main int
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-
-## 📊 GitHub Stats
-
-![Yegneswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-YEGNESWAR&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=P-YEGNESWAR&theme=tokyonight&hide_border=true)
-
+---
 
 ## 📫 Connect With Me
 
