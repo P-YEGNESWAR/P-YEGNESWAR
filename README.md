@@ -49,9 +49,11 @@ I enjoy building useful applications that solve real-world problems. My main int
 
 ## 📊 GitHub Stats
 
-![Yegneswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-YEGNESWAR&show_icons=true&theme=tokyonight)
+![Yegneswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-YEGNESWAR&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-YEGNESWAR&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=P-YEGNESWAR&theme=tokyonight&hide_border=true)
 
 
 ## 📫 Connect With Me
